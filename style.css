@@ -1,0 +1,22 @@
+.my_nav_bar{
+    top: 0;
+    position: sticky;
+    z-index: 99999;
+}
+
+marqueestyle{
+    
+    width: 60%;
+    height: 100px; 
+}
+body{
+    
+    color: orange;
+    align-content: flex-start;
+}
+
+schoolimg{
+    
+    height: 500px;
+    width: 1000px;
+}
